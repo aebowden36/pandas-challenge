@@ -1,1 +1,7 @@
 # pandas-challenge
+One thing that I observed from this data is although men outnumber women in the player count of this game, women spend more on average on in-game items than men do. 
+This indicates that it is within this company's best interests to push to increase their female audience.
+
+From this data we can also see that individuals between the ages of 20 and 24 make up majority of the player population and this group has pulled in approximately half of the total revenue made by this game so far. However, individuals between the ages of 35 and 39 spend the most on average per purchase. So, again I would recommend that the company try to increase the number of players within this age range. 
+
+Finally, it appears that the most popoular items also tend to be the most profitable. These items are not the most expensive items that a player can purchase, but they do fall higher on the list, so they are not profitable or popular simply because of a high volume of small purchases. This indicates that there are aspects of these items that are very appealing to players which makes the players beliece that they are worth the price. It would be ideal for the company to find what perks these items give players that are so appealing so that they can either further emphasize these aspects within the game to encourage more purchases of these items, or use this information to create new items that are highly appealing to players that would also encourage increased purchases.
